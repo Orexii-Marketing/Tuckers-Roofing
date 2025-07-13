@@ -1,0 +1,22 @@
+<svg width="32" height="32" viewBox="0 0 32 32" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background circle -->
+  <circle cx="16" cy="16" r="16" fill="#1e40af"/>
+  
+  <!-- House outline -->
+  <path d="M6 18L16 8L26 18V26C26 27.1 25.1 28 24 28H8C6.9 28 6 27.1 6 26V18Z" fill="#ffffff"/>
+  
+  <!-- Roof -->
+  <path d="M4 18L16 6L28 18L26 20L16 10L6 20L4 18Z" fill="#ef4444"/>
+  
+  <!-- Chimney -->
+  <rect x="20" y="9" width="3" height="6" fill="#6b7280"/>
+  
+  <!-- Window -->
+  <rect x="12" y="18" width="3" height="3" fill="#1e40af"/>
+  
+  <!-- Door -->
+  <rect x="17" y="20" width="3" height="8" fill="#8b4513"/>
+  
+  <!-- Door handle -->
+  <circle cx="19.5" cy="24" r="0.5" fill="#fbbf24"/>
+</svg>
